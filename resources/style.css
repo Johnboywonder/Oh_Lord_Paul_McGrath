@@ -1,0 +1,113 @@
+.home{
+  background-image: url(./mcgrath_1.jpg);
+  background-repeat: no-repeat;
+  width: 1180px;
+  z-index: 1;
+
+}
+h1{
+  font-family: Vincent; sans-serif;
+  font-size: 100px;
+  color: black;
+  position: relative;
+  top: -20px;
+  left: 30px;
+  z-index: 2;
+}
+h1.shadow{
+  font-family: Vincent; sans-serif;
+  font-size: 100px;
+  color: white;
+  position: relative;
+  top: -195px;
+  left: 33px;
+}
+h2 .heroes{
+  font-family: Vincent; sans-serif;
+  font-size: 30px;
+  color: white;
+  position: relative;
+  top: -250px;
+  left: 30px;
+  z-index: 2;
+}
+p{
+  font-family: Georgia; serif;
+  font-size: 18px;
+  font-weight: normal;
+  margin-left: 200px;
+  margin-top: 10px;
+  margin-right: 400px;
+}
+.navigation{
+  font-family: Vincent; sans-serif;
+  font-size: 20px;
+  color: white;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  margin: 10px 50px;
+  z-index: 2;
+}
+h2.about{
+  font-family: Vincent; sans-serif;
+  font-size: 50px;
+  color: black;
+  position:relative;
+  left: 200px;
+  top: 25px
+}
+a.about{
+  font-family: Vincent; sans-serif;
+  font-size: 20px;
+  color: black;
+  position: relative;
+  top: 0px;
+  left: 50px;
+  margin: 10px 50px;
+}
+div.scroll{
+  background-color: black;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+}
+.contents-stories,
+.contents-drawings,
+.contents-fm{
+  font-family: Vincent; sans-serif;
+  font-size: 100px;
+  color: black;
+  position: relative;
+  z-index: 5;
+
+}
+h2.contents-stories{
+  position: relative;
+  top: 0px;
+  left: 30px;
+}
+h2.contents-drawings{
+  position: relative;
+  top: 0px;
+  left: 30px;
+}
+h2.contents-fm{
+  color: black;
+  position: relative;
+  top: 0px;
+  left: 30px;
+}
+img.banner-stories{
+  z-index: 3;
+  width: 1180px;
+  height:175px;
+  position: relative;
+  top: 0px
+}
+img.banner-drawings{
+  z-index: 3;
+  width: 1180px;
+  height: 175px;
+  position: relative;
+  top: 0px;
